@@ -1,4 +1,6 @@
-package mx.edu.uttt.appEstructuraDatos;
+package mx.edu.uttt.appEstructuraDatos.materias;
+
+import mx.edu.uttt.appEstructuraDatos.Menus;
 
 import javax.swing.*;
 
